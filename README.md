@@ -21,6 +21,6 @@
 ## Config  
 ｜ 設定項目 | 値 | 説明 |
 |---|---|---|
-| UseType | <true|false> | Tapをtrueにするとアイテムをもって右クリックで、  スニークだとアイテムをもってスニークでFillモードを切り替え |
+| UseType | <truefalse> | Tapをtrueにするとアイテムをもって右クリックで、  スニークだとアイテムをもってスニークでFillモードを切り替え |
 | SaveSize | <number> | Undoが可能なFill履歴の保存サイズです |
 
