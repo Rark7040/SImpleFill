@@ -11,9 +11,17 @@
 [youtube link](https://youtu.be/E-6aQ4tCY0g)
 
 ## Command
+実行権限はすべてOP以上となっております  
+
 | コマンド | エイリアス | 説明 |
 |---|---|---|
 | /simplefill | /sf | Fillモードを切り替えるアイテムをプレイヤーに付与します |
 | /sfundo <number> | /su < number> | <number>に書かれた数だけ操作を取り消します|  
   
+##Config  
+
+｜設定項目|値|説明|
+|---|---|---|
+| UseType | <true|false> | Tapをtrueにするとアイテムをもって右クリックで、  スニークだとアイテムをもってスニークでFillモードを切り替え|
+| SaveSize | <number> | Undoが可能なFill履歴の保存サイズです|
 
